@@ -37,7 +37,7 @@ const ServicesSec = () => {
   return (
     <section
       id="services"
-      className="py-20 container mx-auto px-4 sm:px-4 lg:px-32 "
+      className="container mx-auto px-4 sm:px-4 lg:px-32 "
     >
       <motion.div
         variants={fadeIn("up", 0.3)}
