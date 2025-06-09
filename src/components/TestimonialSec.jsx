@@ -52,7 +52,7 @@ const TestimonialSec = () => {
   return (
     <section
       id="testimonials"
-      className="py-24 px-4 max-w-7xl mx-auto sm:w-3/4 md:w-4/5 "
+      className="py-8 px-4 max-w-7xl mx-auto sm:w-3/4 md:w-4/5 "
     >
       <motion.div
         variants={fadeIn("up", 0.3)}
