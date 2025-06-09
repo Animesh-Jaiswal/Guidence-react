@@ -25,7 +25,7 @@ const FeatureSec = () => {
     <motion.section 
     variants={fadeIn('up', 0.2)}
     initial="hidden"
-    whileInView="show" id="about" className="max-w-7xl mx-auto px-4 py-12 md:py-24 md:w-4/5">
+    whileInView="show" id="about" className="max-w-7xl mx-auto px-4 py-12 md:py-20 md:w-4/5">
       {/* heading text */}
       <motion.div 
         variants={fadeIn('up', 0.3)} className="text-center mb-12">
