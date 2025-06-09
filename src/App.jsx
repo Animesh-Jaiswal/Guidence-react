@@ -2,7 +2,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Partners from "./components/Partners";
-import PurposeSec from "./components/purposeSec";
+import PurposeSec from "./components/PurposeSec";
 import FeatureSec from "./components/FeatureSec";
 import ScheduleSec from "./components/ScheduleSec";
 import MoniterSec from "./components/MoniterSec";
